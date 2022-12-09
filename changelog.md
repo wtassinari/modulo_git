@@ -9,4 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Adicão do acento no arquivo 2 no olá
+- Adicão do changelog.md
